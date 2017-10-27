@@ -35,6 +35,22 @@
 * [Patchfoo](https://github.com/noffle/sailing-patchfoo) `(social)`
 * [Ferment](https://github.com/fermentation/ferment) `(music streaming)`
 
+#### Packages 
+
+* [secure-scuttlebutt](https://github.com/ssbc/secure-scuttlebutt) - The canonical database implementation of the SSB protocol
+* [Patchcore](https://github.com/ssbc/patchcore) - A shared library of depject modules to build SSB social network apps
+* [scuttlebot](https://github.com/ssbc/scuttlebot) - Peer process to connect to other SSB peers
+* [ssb-client](https://github.com/ssbc/ssb-client) - Client to a scuttlebot process
+* [ssb-blobs](https://github.com/ssbc/ssb-blobs) - Scuttlebot plugin for gossiping "blobs" (generic files)
+* [ssb-config](https://github.com/ssbc/ssb-config) - Scuttlebot plugin for basic configurations
+* [ssb-friends](https://github.com/ssbc/ssb-friends) - Scuttlebot plugin with the logic of whose feeds to replicate
+* [ssb-keys](https://github.com/ssbc/ssb-keys) - Scuttlebot plugin for public/private keyfile operations
+* [ssb-links](https://github.com/dominictarr/ssb-links) - Scuttlebot plugin that indexes all the links
+* [ssb-ref](https://github.com/ssbc/ssb-ref) - Scuttlebot plugin that checks if a string is a valid SSB reference
+* [ssb-private](https://github.com/ssbc/ssb-private) - Scuttlebot plugin for indexed private messages
+* [react-native-scuttlebot](https://github.com/ssbc/react-native-scuttlebot) - A variant of scuttlebot tailored for React Native projects
+* [react-native-ssb-client](https://github.com/ssbc/react-native-ssb-client) - A variant of `ssb-client` tailored for React Native projects
+
 ---
 
 ### Contribution
