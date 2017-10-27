@@ -1,11 +1,11 @@
 ### **Awesome SSB**
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-### A collection of awesome ssb resources and projects
+### A collection of awesome SSB resources and projects
 ---
 
 ![pathcwork-icon](https://scuttlebot.io/img/hermies-256.png)
 
-> A open source peer-to-peer software ecosystem for building decent(ralised) applications
+> An open source peer-to-peer software ecosystem for building decent(ralised) applications
 
 #### About SSB
 * [SSB Handbook](https://www.scuttlebutt.nz)
@@ -38,7 +38,7 @@
 ---
 
 ### Contribution
-Please Do :raised_hands:
+Please Do! :raised_hands:
 
 ### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
