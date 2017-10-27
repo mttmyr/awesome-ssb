@@ -18,6 +18,7 @@
 * [2015 Austin Tech Live Talk](https://www.youtube.com/watch?v=e-tgqF0WkDg)
 * [2016 DAppHack Berlin Talk](https://www.youtube.com/watch?v=DvR5_YYKEVY)
 * [2017 Interview with Dominic Tarr](https://www.youtube.com/watch?v=culYwT7_sW0)
+* [2017 Embracing Subjectivity, by Mix Irving](https://www.youtube.com/watch?v=P5K18XssVBg)
 
 #### Protocol Clients
 * [JavaScript](https://github.com/ssbc/ssb-client)
@@ -27,7 +28,6 @@
 * [scuttlebot](https://github.com/ssbc/scuttlebot)
 * [easy-ssb-pub](https://github.com/staltz/easy-ssb-pub)
 * [git-ssb](https://github.com/clehner/git-ssb)
-
 
 #### Consumer Apps
 * [Patchwork](https://github.com/ssbc/patchwork) `(social)`
